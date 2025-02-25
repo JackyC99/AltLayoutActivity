@@ -14,15 +14,15 @@
 
         <ImageView
             android:id="@+id/profile_photo"
-            android:layout_width="300dp"
-            android:layout_height="300dp"
+            android:layout_width="297dp"
+            android:layout_height="239dp"
             android:scaleType="center"
             tools:srcCompat="@tools:sample/avatars" />
 
         <TextView
             android:id="@+id/name"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="397dp"
+            android:layout_height="61dp"
             android:textAppearance="@style/TextAppearance.AppCompat.Display3"
             tools:text="Name" />
 
